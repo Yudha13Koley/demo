@@ -1,0 +1,7 @@
+*.log
+.git/
+logs/
+target/
+.settings/
+.classpath
+.project
